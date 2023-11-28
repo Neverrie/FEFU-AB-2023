@@ -12,7 +12,9 @@ To make youe contributing easy follow this esay steps:
 2. Install git and github app optionaly
 3. Make commit to the forked repository
 4. Make two cliks to create the merge request in github
-5. **You should name your pull request after the task name**
+5. **You should name your pull request after the task name
+![image](https://github.com/BeaverNotACat/FEFU-AB-2023/assets/91649540/ebb49e05-5762-4393-a43f-45e6e7484e0e)
+
 
 # Русский перевод
 Решения задач из [контеста по основам алгоритмизации](ttps://imcs.dvfu.ru/cats/problems?cid=6830020;sid=HgnfFHcynBBiXP6rt25q7U1DSH1Hl6) от ИМКТ ДВФУ
